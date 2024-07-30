@@ -52,6 +52,8 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="images/marquee.svg" />
 <br />
 
+<h1>Visitor Count</h1>
+
 ![Visitor Count](https://profile-counter.glitch.me/DhruvBhatia0/count.svg)
 
 
