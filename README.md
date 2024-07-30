@@ -53,7 +53,7 @@
 <br />
 
 <div align="center">
-<a href=""><img src="images/guestbook.svg"></a> 
+<a href=""><img src="images/visitor_count.svg"></a> 
 </div>
 
 ![Visitor Count](https://profile-counter.glitch.me/DhruvBhatia0/count.svg)
